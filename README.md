@@ -2,6 +2,7 @@
 Control The PPT an System Using American Sign Language
 
 A real-time American Sign Language (ASL) gesture recognition system that controls PowerPoint presentations and system functions using hand gestures through your webcam.
+
 🌟 Features
 
 Real-time hand gesture recognition using MediaPipe and CVZone
