@@ -429,7 +429,7 @@ if __name__ == "__main__":
         controller = SimpleASLController()
         
         # Update this path to your PowerPoint file or set to None for system mode only
-        ppt_path = r"C:\Users\G mohanhari\Desktop\sign\zani.pptx"
+        ppt_path = r"C:\path\to\your\presentation.pptx"
         
         # Check if file exists
         import os
