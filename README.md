@@ -1,5 +1,5 @@
 # ASL-System-Controller
-Control The PPT an System Using American Sign Language
+Control The PPT Using American Sign Language
 
 A real-time American Sign Language (ASL) gesture recognition system that controls PowerPoint presentations and system functions using hand gestures through your webcam.
 
@@ -30,7 +30,7 @@ Webcam (built-in or external)
 Windows (for PowerPoint and some system functions)
 PowerPoint (optional, for presentation mode)
 
-!!The System Control mode is not fully functional
+!!The System Control mode is not fully functional!!
 
 Install required packages:
 bashpip install -r requirements.txt
