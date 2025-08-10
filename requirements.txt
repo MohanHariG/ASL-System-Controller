@@ -1,11 +1,6 @@
-opencv-python
-mediapipe
-cvzone
-numpy
+cv2
+numpy 
 pyautogui
-pywin32
-pycaw
-comtypes
-Pillow
-protobuf
-colorama
+cvzone
+time
+math
